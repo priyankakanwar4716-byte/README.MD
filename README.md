@@ -1,15 +1,11 @@
 <!-- PROFILE HEADER -->
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikkrishnasharmaa&label=Profile+Views&color=00AEEF&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 ## 🧠 About Me  
 
-💡 Highly motivated and detail-oriented **Software Developer & Data Analyst & Digital Marketing Specialist** passionate about technology, data visualization, and full-stack web development.  
+💡 Highly motivated and detail-oriented **SData Science Specialist** passionate about technology, data visualization, and full-stack web development.  
 🚀 I love **building impactful web apps**, exploring **AI tools**, and creating **smart digital solutions**.  
 🎯 My goal is to continuously learn and apply modern technologies to solve real-world problems.
 
